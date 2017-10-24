@@ -1,0 +1,31 @@
+{
+  "name": "polyGun-letsencrypt",
+  "version": "0.8.8",
+  "description": "Simple HTTPS Gun server w/ LetsEncrypt support",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/lmangani/polygun-letsencrypt"
+  },
+  "keywords": [
+    "gun",
+    "gunDB",
+    "server",
+    "setup",
+    "realtime",
+    "http",
+    "https",
+    "polyglot",
+    "letsencrypt",
+    "wss"
+  ],
+  "author": "Lorenzo Mangani <lorenzo.mangani@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gun": "^0.8.8",
+    "auto-sni": "^2.3.2"
+  }
+}
