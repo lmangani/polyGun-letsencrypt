@@ -1,6 +1,6 @@
 {
   "name": "polyGun-letsencrypt",
-  "version": "0.8.8",
+  "version": "0.9.9",
   "description": "Simple HTTPS Gun server w/ LetsEncrypt support",
   "main": "server.js",
   "scripts": {
@@ -25,7 +25,7 @@
   "author": "Lorenzo Mangani <lorenzo.mangani@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "gun": "^0.8.8",
-    "auto-sni": "^2.3.2"
+    "auto-sni": "^2.3.2",
+    "gun": "^0.9.9998"
   }
 }
