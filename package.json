@@ -26,6 +26,6 @@
   "license": "MIT",
   "dependencies": {
     "auto-sni": "^2.3.2",
-    "gun": "^0.9.9998"
+    "gun": "^0.2019.915"
   }
 }
